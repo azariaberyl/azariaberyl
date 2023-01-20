@@ -1,6 +1,8 @@
 ##  About me
 Front-end web developer. Motivated by a passion for solving problems, creating innovative solutions, and a love for continuous learning. Skilled in utilizing React to create dynamic and user-friendly interfaces, and am eager to apply my skills and knowledge to make a positive impact on the field of computer science and technology.
 
+Linkedin: [Azaria Beryl Nagata](https://www.linkedin.com/in/azaria-nagata-8a7926169/)
+
  **Skills**
  - [x] HTML & CSS
  - [x] React JS
